@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might contain sensitive data
+.env
+.env.local
+*.key
+*.pem
+*_secret*
+*_private*
+
+# Archive and backup files
+Archive/
+*.backup
+*.bak
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
