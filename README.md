@@ -1,5 +1,11 @@
 # Comet: Concept to Claude Project Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/promptaholic/comet-claude-generator/releases)
+[![Claude](https://img.shields.io/badge/Claude-Projects-purple.svg)](https://claude.ai)
+[![GitHub issues](https://img.shields.io/github/issues/promptaholic/comet-claude-generator)](https://github.com/promptaholic/comet-claude-generator/issues)
+[![GitHub stars](https://img.shields.io/github/stars/promptaholic/comet-claude-generator)](https://github.com/promptaholic/comet-claude-generator/stargazers)
+
 Transform any concept into production-ready Claude Project configurations in minutes, following Anthropic's 2025 standards.
 
 ## 🚀 What is Comet?
