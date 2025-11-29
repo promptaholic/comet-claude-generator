@@ -111,7 +111,6 @@ Production-Ready Claude Project
 ## 📚 Documentation
 
 - **CLAUDE.md** - Full project overview and capabilities
-- **SECURITY_AUDIT.md** - Security review (all clear for public use)
 - **LICENSE** - MIT License
 
 ## 🤝 Contributing
